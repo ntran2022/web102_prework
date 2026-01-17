@@ -21,6 +21,9 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 10px lightblue;
 }
 
 .stats-card {
@@ -60,16 +63,28 @@ body {
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+    transform: scale(1.005);
 }
 
 #button-container {
     text-align: center;
 }
 
+button:hover{
+    box-shadow: 0 0 30px lightblue;
+    transform: scale(1.05);
+}
+
 button {
     font-family: 'Cabin';
+    cursor: pointer;
     border: none;
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:active {
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    transform: scale(0.95);
 }
