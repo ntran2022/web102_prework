@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/E6wdPnm#8dlG0qG' title='Sea Monster App demonstration' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/9Kj8q2Y.gif' title='Sea Monster App demonstration' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
